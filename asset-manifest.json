@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/bilalAn-nur/nobunime/static/css/main.e39ff4dd.css",
-    "main.js": "/bilalAn-nur/nobunime/static/js/main.0a3ace07.js",
-    "static/media/classroom.png": "/bilalAn-nur/nobunime/static/media/classroom.3e18da7431f42945fae9.png",
-    "static/media/jujutsu.jpg": "/bilalAn-nur/nobunime/static/media/jujutsu.409d89bdb593afb5f16a.jpg",
-    "static/media/sakurasou.jpg": "/bilalAn-nur/nobunime/static/media/sakurasou.cff82d86c546246e900c.jpg",
-    "static/media/chainsawman.jpg": "/bilalAn-nur/nobunime/static/media/chainsawman.bcbc22aed1c31c24cad7.jpg",
-    "static/media/action.jpg": "/bilalAn-nur/nobunime/static/media/action.38a4549d9b9d6580c739.jpg",
-    "static/media/main.jpg": "/bilalAn-nur/nobunime/static/media/main.26670bbab26e968e468d.jpg",
-    "static/media/kaguyasan.jpg": "/bilalAn-nur/nobunime/static/media/kaguyasan.fc6a7af90cfb0a03ad60.jpg",
-    "static/media/kny.jpg": "/bilalAn-nur/nobunime/static/media/kny.1c0b5e491d6a720987e9.jpg",
-    "static/media/fate.jpg": "/bilalAn-nur/nobunime/static/media/fate.effdc79ba4ef260e3f49.jpg",
-    "static/media/school.jpg": "/bilalAn-nur/nobunime/static/media/school.2831435abf0601d6a185.jpg",
-    "static/media/blackclover.jpg": "/bilalAn-nur/nobunime/static/media/blackclover.264684a9a7903ec29b89.jpg",
-    "static/media/dxd.jpg": "/bilalAn-nur/nobunime/static/media/dxd.c3c93aa4259a01c26b31.jpg",
-    "static/media/bna.jpg": "/bilalAn-nur/nobunime/static/media/bna.2b27df1d85f654bad0d8.jpg",
-    "static/media/angelbeats.jpg": "/bilalAn-nur/nobunime/static/media/angelbeats.89921299d3832395d717.jpg",
-    "static/media/komisan.jpg": "/bilalAn-nur/nobunime/static/media/komisan.6438a6d7fe100b6061e8.jpg",
-    "index.html": "/bilalAn-nur/nobunime/index.html",
-    "main.e39ff4dd.css.map": "/bilalAn-nur/nobunime/static/css/main.e39ff4dd.css.map",
-    "main.0a3ace07.js.map": "/bilalAn-nur/nobunime/static/js/main.0a3ace07.js.map"
+    "main.css": "/nobunime/static/css/main.328429b8.css",
+    "main.js": "/nobunime/static/js/main.785c3593.js",
+    "static/media/classroom.png": "/nobunime/static/media/classroom.3e18da7431f42945fae9.png",
+    "static/media/jujutsu.jpg": "/nobunime/static/media/jujutsu.409d89bdb593afb5f16a.jpg",
+    "static/media/sakurasou.jpg": "/nobunime/static/media/sakurasou.cff82d86c546246e900c.jpg",
+    "static/media/chainsawman.jpg": "/nobunime/static/media/chainsawman.bcbc22aed1c31c24cad7.jpg",
+    "static/media/action.jpg": "/nobunime/static/media/action.38a4549d9b9d6580c739.jpg",
+    "static/media/main.jpg": "/nobunime/static/media/main.26670bbab26e968e468d.jpg",
+    "static/media/kaguyasan.jpg": "/nobunime/static/media/kaguyasan.fc6a7af90cfb0a03ad60.jpg",
+    "static/media/kny.jpg": "/nobunime/static/media/kny.1c0b5e491d6a720987e9.jpg",
+    "static/media/fate.jpg": "/nobunime/static/media/fate.effdc79ba4ef260e3f49.jpg",
+    "static/media/school.jpg": "/nobunime/static/media/school.2831435abf0601d6a185.jpg",
+    "static/media/blackclover.jpg": "/nobunime/static/media/blackclover.264684a9a7903ec29b89.jpg",
+    "static/media/dxd.jpg": "/nobunime/static/media/dxd.c3c93aa4259a01c26b31.jpg",
+    "static/media/bna.jpg": "/nobunime/static/media/bna.2b27df1d85f654bad0d8.jpg",
+    "static/media/angelbeats.jpg": "/nobunime/static/media/angelbeats.89921299d3832395d717.jpg",
+    "static/media/komisan.jpg": "/nobunime/static/media/komisan.6438a6d7fe100b6061e8.jpg",
+    "index.html": "/nobunime/index.html",
+    "main.328429b8.css.map": "/nobunime/static/css/main.328429b8.css.map",
+    "main.785c3593.js.map": "/nobunime/static/js/main.785c3593.js.map"
   },
   "entrypoints": [
-    "static/css/main.e39ff4dd.css",
-    "static/js/main.0a3ace07.js"
+    "static/css/main.328429b8.css",
+    "static/js/main.785c3593.js"
   ]
 }
